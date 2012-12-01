@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Custom Table View module for Android
+author: Hoshi Takanori
+license: Specify your license
+copyright: MyTableView
+
+
+# these should not be edited
+name: mytableview
+moduleid: com.example.MyTableView
+guid: 6feef616-50a4-40e4-9331-bc6fd0b50e88
+platform: android
+minsdk: 2.1.4.GA
